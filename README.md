@@ -4,6 +4,7 @@
 Start correctrness tests: 
 Correctness passed!
 
+```
 Start perform tests:
 Seq run 0: 54.2389 seconds.
 Seq run 1: 52.1809 seconds.
@@ -18,3 +19,5 @@ Par run 3: 45.9169 seconds.
 Par run 4: 46.1938 seconds.
 Par mid 46.33734
 ratio: 1.16161
+
+```
